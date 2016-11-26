@@ -391,6 +391,7 @@
     <tile bgName="Spritesheet2" x="1344" y="320" w="64" h="64" xo="0" yo="0" id="10001650" name="inst_B7A52FC4" depth="10000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="1344" y="384" w="64" h="64" xo="296" yo="962" id="10001913" name="inst_AF0FE5F2" depth="10000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="1344" y="416" w="64" h="64" xo="370" yo="962" id="10001914" name="inst_1EA678D5" depth="10000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="Spritesheet2" x="768" y="0" w="64" h="64" xo="740" yo="1258" id="10001981" name="inst_E793828E" depth="10000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="448" y="256" w="64" h="64" xo="1110" yo="1332" id="10000409" name="inst_D1DE55AF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="512" y="256" w="64" h="64" xo="1184" yo="1332" id="10000410" name="inst_E80CF493" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="384" y="256" w="64" h="64" xo="1110" yo="1332" id="10000414" name="inst_B20491DD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -522,7 +523,6 @@
     <tile bgName="Spritesheet2" x="640" y="704" w="64" h="64" xo="814" yo="1258" id="10001500" name="inst_1DE7A69E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="704" y="704" w="64" h="64" xo="814" yo="1258" id="10001501" name="inst_6A1BF955" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="512" y="704" w="64" h="64" xo="814" yo="1258" id="10001502" name="inst_16588656" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="Spritesheet2" x="736" y="1" w="64" h="64" xo="740" yo="1258" id="10001522" name="inst_72309713" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="578" y="64" w="64" h="64" xo="1480" yo="296" id="10001523" name="inst_B009E15F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="1344" y="320" w="64" h="64" xo="814" yo="1258" id="10001651" name="inst_C1824E60" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="0" y="192" w="64" h="64" xo="1776" yo="592" id="10001652" name="inst_719F6C8F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -536,6 +536,7 @@
     <tile bgName="Spritesheet2" x="1230" y="242" w="64" h="64" xo="1554" yo="592" id="10001662" name="inst_41399905" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="1249" y="150" w="64" h="64" xo="1480" yo="444" id="10001663" name="inst_1F4845D1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="Spritesheet2" x="1279" y="71" w="64" h="64" xo="1480" yo="444" id="10001664" name="inst_9D4BC7F9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="" x="736" y="-64" w="16" h="16" xo="0" yo="0" id="10001978" name="inst_42035CCC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

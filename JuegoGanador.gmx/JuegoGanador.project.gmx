@@ -48,6 +48,32 @@
     <sprite>sprites\PlayerKnife1</sprite>
     <sprite>sprites\KnifeKick</sprite>
     <sprite>sprites\gunSpr</sprite>
+    <sprites name="menu_sprites">
+      <sprite>sprites\fondo</sprite>
+      <sprite>sprites\title</sprite>
+      <sprite>sprites\newgame</sprite>
+      <sprite>sprites\newgame2</sprite>
+      <sprite>sprites\options</sprite>
+      <sprite>sprites\options2</sprite>
+      <sprite>sprites\menu_exit</sprite>
+      <sprite>sprites\menu_exit2</sprite>
+      <sprite>sprites\optionsmenu</sprite>
+      <sprite>sprites\on</sprite>
+      <sprite>sprites\on2</sprite>
+      <sprite>sprites\music</sprite>
+      <sprite>sprites\effects</sprite>
+      <sprite>sprites\off</sprite>
+      <sprite>sprites\off2</sprite>
+      <sprite>sprites\back</sprite>
+      <sprite>sprites\back2</sprite>
+      <sprite>sprites\pause</sprite>
+      <sprite>sprites\continue_spr</sprite>
+      <sprite>sprites\continue2_spr</sprite>
+      <sprite>sprites\restart_spr</sprite>
+      <sprite>sprites\restart2_spr</sprite>
+      <sprite>sprites\pause_exitSpr</sprite>
+      <sprite>sprites\pause_exit2Spr</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\Spritesheet1</background>
@@ -109,8 +135,29 @@
     <object>objects\knifeObj</object>
     <object>objects\KnifeKickObj</object>
     <object>objects\gunObj</object>
+    <objects name="main_menuObjs">
+      <object>objects\fondoObj</object>
+      <object>objects\titleObj</object>
+      <object>objects\newgameObj</object>
+      <object>objects\optionsObj</object>
+      <object>objects\menu_exitObj</object>
+      <object>objects\pause_exitObj</object>
+      <object>objects\optionsmenuObj</object>
+      <object>objects\musicObj</object>
+      <object>objects\effectsObj</object>
+      <object>objects\on_music</object>
+      <object>objects\off_music</object>
+      <object>objects\backObj</object>
+      <object>objects\on_effects</object>
+      <object>objects\off_effects</object>
+      <object>objects\pauseObj</object>
+      <object>objects\continueObj</object>
+      <object>objects\restartObj</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\menu</room>
+    <room>rooms\menu_options</room>
     <room>rooms\Cuarto1</room>
     <room>rooms\Cuarto2</room>
     <room>rooms\Cuarto3</room>
